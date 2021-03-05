@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>presize photo</folder>
+	<filename>13337.JPG</filename>
+	<path>F:\Study\Vehicle recognation\10.rakibul-20210226T052735Z-001\presize photo\13337.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>608</width>
+		<height>608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>minibus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>13</ymin>
+			<xmax>602</xmax>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+</annotation>
